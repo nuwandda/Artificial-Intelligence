@@ -23,3 +23,12 @@ For the report, questions below should be answered.
   
 ## Assignment-2
 
+![alt text](https://github.com/nuwandda/Artificial-Intelligence/blob/master/Bayesian-Networks/graph.png "Logo Title Text 1")
+
+For the given Bayesian Network, calculate **P(+D), P(+D,-A), P(+E|-B), P(+A|+D,-E) and P(+B,-E|+A)** using:
+
+* Complete enumeration
+* Variable elimination (if possible)
+* Monte Carlo technique
+
+And implement the Monte Carlo Technique in Python. For the other techniques, a report is included with the answers.
